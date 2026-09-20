@@ -26,4 +26,4 @@ Wolverine Reaper 2 | | | No compatible with Inferno! |
 
 ---
 
-# [lab,sychev.xyz](https://lab.sychev.xyz)
+# [lab.sychev.xyz](https://lab.sychev.xyz)
