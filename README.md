@@ -23,3 +23,7 @@ Wolverine Reaper 2 | | | No compatible with Inferno! |
 
 > [!IMPORTANT]
 > Anyone can collaborate and contribute information by making a "Pull" to add images or documentation and then make a "Pull Request" to attach your contribution to the main branch.
+
+---
+
+# [lab,sychev.xyz](https://lab.sychev.xyz)
