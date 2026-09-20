@@ -15,7 +15,7 @@ Wolverine Reaper 2 | | | No compatible with Inferno! |
 [PolarStar JACK Solenoid](Engines/Jack/README.md) | MAC MOD A045 4.0W (BV309A) 200psi | | F2 |
 [PolarStar F2 Solenoid](Engines/F2/README.md) |  MAC MOD A045 4.0W (BV309A) 200psi | | Jack |
 [PolarStar F1 Solenoid](Engines/F1/README.md) | MAC MOD 8815 5VCD 6.0W (BV214A) 150psi | | |
-[REDLINE – N7 Gen2 Milsim](Engines/REDLINE-N7/README.md) | _MAC MOD 4.0W (C01 ) 120psi_ | | |
+[REDLINE – N7 Gen2 Milsim](Engines/REDLINE-N7/README.md) | _MAC MOD 4.0W (C01 ) 120psi_ | | It is not compatible with any of them; it is much smaller than the rest. |
 
 ---
 
